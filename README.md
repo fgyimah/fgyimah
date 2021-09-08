@@ -2,7 +2,7 @@
 
 <img src="/banner.png">
 
-Francis Gyimah is a fullstack javascript web and mobile engineer and android developer in Kotlin/Java. I love building great experiences on the web and on mobile. I love working with tools like Docker and Kubernetes and integrations with cloud systems. Currently pursing a computer engineering degree at [KNUST](https://www.knust.edu.gh/).
+Francis Gyimah is a fullstack javascript/typescript web and mobile engineer and android developer in Kotlin/Java. I love building great experiences on the web and on mobile. I love working with tools like Docker and Kubernetes and integrations with cloud systems.
 
 **Tools and Languages I'm currently working with:**  
 
