@@ -27,7 +27,7 @@ Francis Gyimah is a fullstack javascript/typescript web and mobile engineer and 
 <a href="https://facebook.com/fgyimah883">
   <img align="left" alt="Gyimah's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/francisco_lyrisis">
+<a href="https://www.instagram.com/francis_gyimah_101">
   <img align="left" alt="Gyimah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10484208/gyimah-francis">
