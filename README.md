@@ -1,38 +1,41 @@
-# I am Francis Gyimah 👋🏾 💻
+<h1 align="center">Hi there 👋, I'm Francis Gyimah</h1>
+<h3 align="center">Full-Stack Engineer · React · Node.js · AWS · TypeScript · Go</h3>
 
-<img src="/banner.png">
+<p align="center">
+  <a href="mailto:fgyimah883@gmail.com"><img src="https://img.shields.io/badge/Email-fgyimah883@gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/francis-gyimah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Francis%20Gyimah-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/fgyimah" target="_blank"><img src="https://img.shields.io/badge/GitHub-@fgyimah-181717?style=flat&logo=github" /></a>
+</p>
 
-Francis Gyimah is a fullstack javascript/typescript web and mobile engineer and android developer in Kotlin/Java. I love building great experiences on the web and on mobile. I love working with tools like Docker and Kubernetes and integrations with cloud systems.
+---
 
-**Tools and Languages I'm currently working with:**  
+### 👨‍💻 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+I'm a Ghana-based full-stack software engineer with 6+ years of experience building scalable web applications. I specialize in JavaScript/TypeScript ecosystems, React, Node.js, and cloud-native architectures using AWS and Go.
 
-**Connect with me on:**  
-<a href="https://twitter.com/fgyimah883">
-  <img align="left" alt="Gyimah Francis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://facebook.com/fgyimah883">
-  <img align="left" alt="Gyimah's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/francis_gyimah_101">
-  <img align="left" alt="Gyimah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://stackoverflow.com/users/10484208/gyimah-francis">
-  <img align="left" alt="gyimah's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://francisgyimah.tech">
-  <img align="left" alt="Gyimah's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
-</a>
+I love transforming ideas into elegant, production-ready code, optimizing performance, and collaborating with global teams to solve meaningful problems.
+
+- 🔭 Currently working at [Prezly](https://www.prezly.com)
+- ✈️ Collaborating with fully remote teams across 🇧🇪 🇬🇧 🇪🇸 🇵🇹 🇺🇸 and beyond
+- 🧠 Always learning: exploring edge runtimes, serverless, and clean architecture
+- 💬 Ask me about: full-stack dev, performance tuning, remote work, career advice
+
+---
+
+### 🛠 Tech Toolbox
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js" style="background:white; padding:2px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" title="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" title="Jest"/>
+</p>
+
