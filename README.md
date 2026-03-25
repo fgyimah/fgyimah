@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Ghana-based full-stack software engineer with 6+ years of experience building scalable web applications. I specialize in JavaScript/TypeScript ecosystems, React, Node.js, and cloud-native architectures using AWS and Go.
+I'm a Ghana-based full-stack software engineer with 7+ years of experience building scalable web applications. I specialize in JavaScript/TypeScript ecosystems, React, Node.js, and cloud-native architectures using AWS and Go.
 
 I love transforming ideas into elegant, production-ready code, optimizing performance, and collaborating with global teams to solve meaningful problems.
 
