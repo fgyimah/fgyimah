@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer · React · Node.js · AWS · TypeScript · Go</h3>
 
 <p align="center">
-  <a href="mailto:fgyimah883@gmail.com"><img src="https://img.shields.io/badge/Email-fgyimah883@gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href="mailto:hello@francisgyimah.dev"><img src="https://img.shields.io/badge/Email-hello@francisgyimah.dev-blue?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/francis-gyimah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Francis%20Gyimah-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/fgyimah" target="_blank"><img src="https://img.shields.io/badge/GitHub-@fgyimah-181717?style=flat&logo=github" /></a>
 </p>
